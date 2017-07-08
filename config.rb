@@ -5,6 +5,13 @@ activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
 end
 
+activate :blog do |blog|
+   blog.prefix = "blog"
+   blog.summary_separator = /READMORE/
+   blog.paginate = true
+  #  blog.permalink = "blog/{year}/{title}.html"
+end
+
 # Layouts
 # https://middlemanapp.com/basics/layouts/
 
