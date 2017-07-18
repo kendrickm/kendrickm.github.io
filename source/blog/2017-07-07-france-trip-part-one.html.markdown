@@ -1,6 +1,6 @@
 ---
 
-title: France Vision Trip part one - Geneva
+title: France Vision Trip Part One - Geneva
 date: 2017-07-07 00:00 UTC
 tags: france, team, vision-trip, missions
 
