@@ -5,16 +5,39 @@
   <id>http://blog.url.com/blog</id>
   <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/blog/feed.xml" rel="self"/>
-  <updated>2017-07-06T18:00:00-06:00</updated>
+  <updated>2017-07-17T16:14:00-07:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
   <entry>
+    <title>Trip to France pt 2 - Paris</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2017/07/17/france2.html"/>
+    <id>http://blog.url.com/blog/2017/07/17/france2.html</id>
+    <published>2017-07-17T16:14:00-07:00</published>
+    <updated>2017-07-18T08:09:55-07:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;The train ride from Geneva to Paris was beautiful. Coming through the alps onto the plains was a sight to behold.  The Parisian train station was right next to the Notre Dame so we walked over there to meet our host for the second leg of the trip. Paul Robelot worked for TEAM in member care and described himself as a church planter by hobby. He drove us back to his house that night in the Paris suburbs.&lt;/p&gt;
+
+&lt;p&gt;We spent the Paris leg doing several different kinds of activities. One of our first days we went and worked with a  missionary who had a relationship with a local Imam. He took us to the mosque to meet the Imam and we got a tour of the mosque.&lt;/p&gt;
+
+&lt;p&gt;We also went to a evening service focused on welcoming refugees from the area. A handful of guys showed up and we went around the room introducing out selves and telling our stories. It was amazing hear the journeys these guys had made to escape the struggles in their home communities.&lt;/p&gt;
+
+&lt;p&gt;Several times during this leg we got to sit with missionaries who ran different programs. I got well versed in sharing my story and why I was there in France meeting them. One of the important things I came to realize in those visits was how important it was to the people were visiting. Several times the local ministers were brought to tears just explaining they had never had visitors from the states come listen to their testimonies.&lt;/p&gt;
+
+&lt;p&gt;Another big aspect for me for this leg was feeling the grind of living life in this region. Because Paris is such a big town(with a lot of traffic) we spent a lot of time sitting in cars delayed by accidents or other things that happen in large cities. Missed meals were commonplace, as we prioritized time with locals over getting to a restaurant before it closed. In a city like Paris it is very easy to romanticize living there without realizing the struggles that come with living in such a place.&lt;/p&gt;
+
+&lt;p&gt;There was so much beauty to witness in this entire trip. God's people are so full of joy no matter where on earth they live, and that commonality transcends any earthly comparison. I don't know what my next steps would be in this journey; I'm currently taking stock of possible options and where next I could go. I thank you for taking time to read this, and participate in my story.&lt;/p&gt;
+
+</content>
+  </entry>
+  <entry>
     <title>France Vision Trip part one - Geneva</title>
     <link rel="alternate" href="http://blog.url.com/blog/2017/07/07/france-trip-part-one.html"/>
     <id>http://blog.url.com/blog/2017/07/07/france-trip-part-one.html</id>
-    <published>2017-07-06T18:00:00-06:00</published>
-    <updated>2017-07-08T15:47:06-06:00</updated>
+    <published>2017-07-06T17:00:00-07:00</published>
+    <updated>2017-07-08T14:47:06-07:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -33,8 +56,8 @@ We kicked the week off spending some time in a park that, one one side over look
     <title>France Trip Begins!</title>
     <link rel="alternate" href="http://blog.url.com/blog/2017/05/13/france-trip-begins.html"/>
     <id>http://blog.url.com/blog/2017/05/13/france-trip-begins.html</id>
-    <published>2017-05-12T18:00:00-06:00</published>
-    <updated>2017-07-08T15:47:06-06:00</updated>
+    <published>2017-05-12T17:00:00-07:00</published>
+    <updated>2017-07-08T14:47:06-07:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -52,8 +75,8 @@ We kicked the week off spending some time in a park that, one one side over look
     <title>Upcoming Trip to France</title>
     <link rel="alternate" href="http://blog.url.com/blog/2017/03/13/france-trip.html"/>
     <id>http://blog.url.com/blog/2017/03/13/france-trip.html</id>
-    <published>2017-03-12T18:00:00-06:00</published>
-    <updated>2017-07-08T15:47:06-06:00</updated>
+    <published>2017-03-12T17:00:00-07:00</published>
+    <updated>2017-07-08T14:47:06-07:00</updated>
     <author>
       <name>Article Author</name>
     </author>
