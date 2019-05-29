@@ -2,9 +2,12 @@
   <link rel="stylesheet" href="/stylesheets/site.css"/>
 </head>
 <body>
+  <div class='name'>
+    Hello, my name is <em>Kendrick Martin</em>
+  </div>
 <div class="container">
   <a href="/">Home</a>
-  <a href="/blog">Blog</a>
+  <a href="#blog">Blog</a>
   <!-- <div class="dropdown">
     <button class="dropbtn">Dropdown</button>
     <div class="dropdown-content">
@@ -13,7 +16,7 @@
       <a href="#">Link 3</a>
     </div>
   </div> -->
-  <a href="/projects">Projects</a>
+  <a href="/letters">Letters</a>
 </div>
 <% if paginate && num_pages > 1 %>
   <p>Page <%= page_number %> of <%= num_pages %></p>
