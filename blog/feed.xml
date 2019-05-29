@@ -5,16 +5,33 @@
   <id>http://blog.url.com/blog</id>
   <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/blog/feed.xml" rel="self"/>
-  <updated>2018-11-01T14:00:00-05:00</updated>
+  <updated>2019-05-28T16:29:00-07:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
   <entry>
+    <title>Newsletter</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2019/05/28/newsletter.html"/>
+    <id>http://blog.url.com/blog/2019/05/28/newsletter.html</id>
+    <published>2019-05-28T16:29:00-07:00</published>
+    <updated>2019-05-28T16:57:36-07:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Hello folks!
+I've been toying with the idea for a while now of creating a sporadic method of publishing some updates, news, or info. I'm going to try for monthly, but it might change based on how often I create content worth publishing.&lt;/p&gt;
+
+&lt;p&gt;The goal will be a short newsletter with new projects, project updates, travel news, recommendations, and other writing. You'll be able to catch up on back letters on my blog, and I'll link more in-depth project updates that I post there. Theres a pretty wide array of areas of interest, so there's no telling what will be the from time to time, but it'll give me a good place to flex my writing muscles.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="/letters"&gt;Subscribe!&lt;/a&gt; And let's see what happens.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
     <title>New Vlog</title>
     <link rel="alternate" href="http://blog.url.com/blog/2018/11/01/new-video.html"/>
     <id>http://blog.url.com/blog/2018/11/01/new-video.html</id>
-    <published>2018-11-01T14:00:00-05:00</published>
-    <updated>2018-12-21T13:55:48-06:00</updated>
+    <published>2018-11-01T12:00:00-07:00</published>
+    <updated>2018-12-21T11:55:48-08:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -29,8 +46,8 @@ and made a vlog of some of the stuff I did. I didn't have anything better then m
     <title>France Vision Trip Part Two- Paris</title>
     <link rel="alternate" href="http://blog.url.com/blog/2017/07/17/france2.html"/>
     <id>http://blog.url.com/blog/2017/07/17/france2.html</id>
-    <published>2017-07-17T18:14:00-05:00</published>
-    <updated>2018-10-17T08:35:39-05:00</updated>
+    <published>2017-07-17T16:14:00-07:00</published>
+    <updated>2018-10-17T06:35:39-07:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -57,8 +74,8 @@ and made a vlog of some of the stuff I did. I didn't have anything better then m
     <title>France Vision Trip Part One - Geneva</title>
     <link rel="alternate" href="http://blog.url.com/blog/2017/07/07/france-trip-part-one.html"/>
     <id>http://blog.url.com/blog/2017/07/07/france-trip-part-one.html</id>
-    <published>2017-07-06T19:00:00-05:00</published>
-    <updated>2018-10-17T08:35:39-05:00</updated>
+    <published>2017-07-06T17:00:00-07:00</published>
+    <updated>2018-10-17T06:35:39-07:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -80,8 +97,8 @@ and made a vlog of some of the stuff I did. I didn't have anything better then m
     <title>France Trip Begins!</title>
     <link rel="alternate" href="http://blog.url.com/blog/2017/05/13/france-trip-begins.html"/>
     <id>http://blog.url.com/blog/2017/05/13/france-trip-begins.html</id>
-    <published>2017-05-12T19:00:00-05:00</published>
-    <updated>2018-10-17T08:35:39-05:00</updated>
+    <published>2017-05-12T17:00:00-07:00</published>
+    <updated>2018-10-17T06:35:39-07:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -99,8 +116,8 @@ and made a vlog of some of the stuff I did. I didn't have anything better then m
     <title>Upcoming Trip to France</title>
     <link rel="alternate" href="http://blog.url.com/blog/2017/03/13/france-trip.html"/>
     <id>http://blog.url.com/blog/2017/03/13/france-trip.html</id>
-    <published>2017-03-12T19:00:00-05:00</published>
-    <updated>2018-10-17T08:35:39-05:00</updated>
+    <published>2017-03-12T17:00:00-07:00</published>
+    <updated>2018-10-17T06:35:39-07:00</updated>
     <author>
       <name>Article Author</name>
     </author>
