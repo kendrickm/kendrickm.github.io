@@ -5,16 +5,46 @@
   <id>http://blog.url.com/blog</id>
   <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/blog/feed.xml" rel="self"/>
-  <updated>2019-05-28T16:29:00-07:00</updated>
+  <updated>2019-06-10T19:00:00-05:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
   <entry>
+    <title/>
+    <link rel="alternate" href="http://blog.url.com/blog/2019/06/11/workday-lengths.html"/>
+    <id>http://blog.url.com/blog/2019/06/11/workday-lengths.html</id>
+    <published>2019-06-10T19:00:00-05:00</published>
+    <updated>2019-06-14T11:42:04-05:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Recently &lt;a href="https://marketplace.org"&gt;Marketplace,&lt;/a&gt; along with &lt;a href="https://www.edisonresearch.com/"&gt;Edison Research,&lt;/a&gt;
+did a poll that concluded the &lt;a href="https://www.marketplace.org/2019/06/04/four-day-workweek-marketplace-edison-poll/"&gt;majority of people support a shorter workweek.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This isn't really a new concept; the 40 hour work week, specifically the five 8-hour days, is very much an American invention, and in many parts of the world it's not the norm.  What gave me pause in thinking about this was how it is impacted by the growing wealth inequality, again especially in the US, but globally as well. It's easy for me, someone with a cushy software-engineering job, to be all for shorter work-weeks. The tech industry, as with many white-color jobs, are salaried and many of them have very loose working hours. I wouldn't be surprised if at least half my peers don't already work essentially what amounts to a 32-hour workweek already. I've said many times, to anyone who would listen, that I would easily take decrease in pay to have he option of having every Friday off. I have been, however, rethinking this mindset recently.&lt;/p&gt;
+
+&lt;p&gt;With cities becoming more and more unlivable(except for the wealthy elite) and in fact, the &lt;a href="https://www.nytimes.com/2019/05/22/opinion/california-housing-nimby.html"&gt;San Francisco Bay area&lt;/a&gt; having 1 in 11,000 people being a &lt;strong&gt;Billionaire,&lt;/strong&gt; I'm finding it harder and harder to justify advocating for more of my own personal freedom, but instead thinking about the people who choose to work 40(50,60 maybe 80) hour weeks because they &lt;em&gt;have&lt;/em&gt; to. There's no end to the list of reasons people are already working longer work-weeks beyond it just being the status quo. Maybe they're struggling to make ends meet in these ever increasing expensive cities. Maybe they grew up in poverty, and can't escape the mindset that they could return there someday no matter how much money they have. Maybe they think their career will provide them the satisfaction that social media promises is just around the next corner.&lt;/p&gt;
+
+&lt;p&gt;I'm not going to provide any solutions because, well I don't have any. But I am going to start try and reframe my ideas of my ideal workweek experience.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;What I've been watching&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Dear_White_People_(TV_series)"&gt;Dear White People&lt;/a&gt; This is the TV series based on the movie of the same name. This show has the luxury of being able to film in and around UCLA and it really helps sell the atmosphere of being at a real university. The the dramatic tension built up here is fantastic, and the episode directed by Barry Jenkins is one of my favorite pieces of television.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;What I've been reading&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.goodreads.com/book/show/35959740-circe"&gt;Circe&lt;/a&gt; A classic re-imagining of Greek lore! I really liked this book and devoured it right up. If you like Grecian myth, witches, or love stories, I would recommend this to you.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
     <title>Newsletter</title>
     <link rel="alternate" href="http://blog.url.com/blog/2019/05/28/newsletter.html"/>
     <id>http://blog.url.com/blog/2019/05/28/newsletter.html</id>
-    <published>2019-05-28T16:29:00-07:00</published>
-    <updated>2019-05-28T16:57:36-07:00</updated>
+    <published>2019-05-28T18:29:00-05:00</published>
+    <updated>2019-06-14T10:41:05-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -30,8 +60,8 @@ I've been toying with the idea for a while now of creating a sporadic method of 
     <title>New Vlog</title>
     <link rel="alternate" href="http://blog.url.com/blog/2018/11/01/new-video.html"/>
     <id>http://blog.url.com/blog/2018/11/01/new-video.html</id>
-    <published>2018-11-01T12:00:00-07:00</published>
-    <updated>2018-12-21T11:55:48-08:00</updated>
+    <published>2018-11-01T14:00:00-05:00</published>
+    <updated>2019-06-14T10:41:05-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -46,8 +76,8 @@ and made a vlog of some of the stuff I did. I didn't have anything better then m
     <title>France Vision Trip Part Two- Paris</title>
     <link rel="alternate" href="http://blog.url.com/blog/2017/07/17/france2.html"/>
     <id>http://blog.url.com/blog/2017/07/17/france2.html</id>
-    <published>2017-07-17T16:14:00-07:00</published>
-    <updated>2018-10-17T06:35:39-07:00</updated>
+    <published>2017-07-17T18:14:00-05:00</published>
+    <updated>2019-06-14T10:41:05-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -74,8 +104,8 @@ and made a vlog of some of the stuff I did. I didn't have anything better then m
     <title>France Vision Trip Part One - Geneva</title>
     <link rel="alternate" href="http://blog.url.com/blog/2017/07/07/france-trip-part-one.html"/>
     <id>http://blog.url.com/blog/2017/07/07/france-trip-part-one.html</id>
-    <published>2017-07-06T17:00:00-07:00</published>
-    <updated>2018-10-17T06:35:39-07:00</updated>
+    <published>2017-07-06T19:00:00-05:00</published>
+    <updated>2019-06-14T10:41:05-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -97,8 +127,8 @@ and made a vlog of some of the stuff I did. I didn't have anything better then m
     <title>France Trip Begins!</title>
     <link rel="alternate" href="http://blog.url.com/blog/2017/05/13/france-trip-begins.html"/>
     <id>http://blog.url.com/blog/2017/05/13/france-trip-begins.html</id>
-    <published>2017-05-12T17:00:00-07:00</published>
-    <updated>2018-10-17T06:35:39-07:00</updated>
+    <published>2017-05-12T19:00:00-05:00</published>
+    <updated>2019-06-14T10:41:05-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -110,29 +140,6 @@ and made a vlog of some of the stuff I did. I didn't have anything better then m
 
 &lt;p&gt;I’ll try to post some updates on this blog, but also follow along on Twitter @kmartinix
 &lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Upcoming Trip to France</title>
-    <link rel="alternate" href="http://blog.url.com/blog/2017/03/13/france-trip.html"/>
-    <id>http://blog.url.com/blog/2017/03/13/france-trip.html</id>
-    <published>2017-03-12T17:00:00-07:00</published>
-    <updated>2018-10-17T06:35:39-07:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;Hello friends!&lt;/p&gt;
-
-&lt;p&gt;As you may recall from our previous letter, “Martin Update“, Kendrick and I are planning a trip this May to France with TEAM (https://team.org/) to go on a short-term or “Vision casting” trip. The main goal of this trip is relationship building and working with permanent missions teams located there. It is our goal to prayerfully seek GoIMG_20160624_141708.jpgd’s will in how we can use our talents to build and extend His Kingdom, and share God’s love in practical ways. As you may have heard, there is a massive influx of refugees in Europe, and that number isn’t going down anytime soon. These people are coming from a wide array of backgrounds, and have an even wider set of needs. In addition, the French country has a growing number of Muslim immigrants moving from various nations around the world. Couple this with the fact that France is one of the leading post-Christian and post-Catholic communities in the world, and you have a huge need for the Gospel. Years ago, Kendrick was moved by a sermon about the need for missionaries in France and since then he has felt that we would end up there someday. It is our hope that we can utilize our love of community building, and supporting marginalized people groups to strengthen the Church by showing Christ’s love in practical, relational ways.
-
-The Lord has been preparing us in so many different ways over the past couple years. I have been attending missions conferences, learning more about the refugee crisis domestically and globally. I’ve also been learning a great deal at Portland IMG_20160624_122620.jpgRescue Mission as I work with broken women trying to get their lives back from addiction, abuse and heartbreak. Kendrick feels especially called toward discipleship and he has pursued this ferociously
-. He’s been meeting with multiple small groups of guys on a weekly basis for some time. Whether it’s book clubs or Bible studies, their consistent purpose is to enrich each other’s lives through community focused on Jesus Christ. I am so proud of his commitment to consistent discipleship and I’ve learned so much from his example. We’ve also been volunteering together at Portland Rescue Mission for the past two years and took over the leadership of our volunteer group this past year. On a monthly basis, we help serve a meal and share the gospel in a short chapel service. Here’s some verses we’re meditating on in preparation for our trip: Genesis 12:1-3; Matthew 28:18-20; Luke 24:45-49; Revelation 7:9-10.&lt;/p&gt;
-
-&lt;p&gt;We would love to have you join us on this journey. Since the main goal of this trip is fact finding and seeking a longer-term vision, prayer is a huge part of that. We both ask you to keep us in your daily prayers, to keep our minds and hearts focused and listening to whatever God is calling us to. We are also in need of financial support to make this trip happen. Our budget is $4,556.60 and we need to raise that by April 22nd. We’re committing to cover just about half of that and trust the Lord to provide the rest. We’d like to ask you to partner with us in meeting our goal of raising $2,300 in this next month and a half. Whether you can afford $10 or $100, it would make a huge difference for us if you joined us financially and prayerfully.&lt;/p&gt;
-
-&lt;p&gt;The easiest way to give is online, follow the link below and enter “Martin” into the search. Then we should pop up as Martin, Kendrick &amp;amp; Emily – 012165. You can choose to give once or at a few different frequencies. When you give online, your donation is automatically tax deductible.  You can also donate cash or check by mail and we’ll submit your donation to TEAM on your behalf. https://secure2.convio.net/team/site/SPageServer?pagename=donatenow&lt;/p&gt;
-
-&lt;p&gt;There is no fear in love. But perfect love drives out fear, because fear has to do with punishment. The one who fears is not made perfect in love. We love because he first loved us. 1 John 4:18-19&lt;/p&gt;
 </content>
   </entry>
 </feed>
