@@ -5,16 +5,16 @@
   <id>http://blog.url.com/blog</id>
   <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/blog/feed.xml" rel="self"/>
-  <updated>2019-06-10T19:00:00-05:00</updated>
+  <updated>2019-06-11T18:29:00-05:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
   <entry>
-    <title/>
+    <title>Length of a Day</title>
     <link rel="alternate" href="http://blog.url.com/blog/2019/06/11/workday-lengths.html"/>
     <id>http://blog.url.com/blog/2019/06/11/workday-lengths.html</id>
-    <published>2019-06-10T19:00:00-05:00</published>
-    <updated>2019-06-14T11:42:04-05:00</updated>
+    <published>2019-06-11T18:29:00-05:00</published>
+    <updated>2019-06-14T12:04:15-05:00</updated>
     <author>
       <name>Article Author</name>
     </author>
