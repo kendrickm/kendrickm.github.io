@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "New Vlog"
+date:   2018-11-01 11:43:24 -0800
+---
+I recently just spent 5 weeks overseas for work, most of this time living out of a hotel by myself. The result of
+doing this meant I had a lot of time  catching up on a lot of netflix and podcasts. So I tried something different
+and made a vlog of some of the stuff I did. I didn't have anything better then my laptop webcam so I'm not super proud of the finished project, but it's a start.
+
+<p><a href="http://www.youtube.com/watch?v=Q_-opCNGWYU" title="TV and Podcast review"><img src="http://img.youtube.com/vi/Q_-opCNGWYU/0.jpg" alt="TV and Podcast review" /></a></p>
