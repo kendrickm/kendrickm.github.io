@@ -1,0 +1,49 @@
+---
+layout: page
+title: Lifelong Bucketlist
+permalink: /bucketlist/
+---
+
+- [ ] Visit all national parks
+- [ ] Visit all 50 states
+- [ ] Visit all 7 continents
+- [ ] Spend the night in a train, ~~plane~~, and boat
+- [X] Ski, snowboard, and surf
+- [ ] Complete a triathlon
+- [X] Read the entire bible
+- [ ] Host a multi-course dinner with printed menus
+- [ ] Learn to dance
+- [ ] Change careers
+- [X] Perform on stage
+- [ ] Rock climb outside
+- [ ] Learn enough second language to converse with restaurant staff
+- [ ] Finish playing RPG campaign
+- [ ] Make good homade ramen broth
+- [ ] See Hamilton on stage
+- [ ] See Improv show in Chicago
+- [ ] Eat sushi in Japan
+- [ ] Visit Patagonia
+- [ ] See soccer game in Europe
+- [ ] Attend ~~NBA~~, ~~MLB~~, ~~NFL~~, and NHL games
+- [ ] Eat pizza in Detroit
+- [ ] Visit Prince Edward Island
+- [X] See aurora borelias
+- [ ] Found a non-profit
+- [ ] Live abroad
+- [ ] Read book about every president
+- [ ] Read 100 biographies
+- [ ] Learn an instrament
+- [ ] Mountain Bike on a trail
+- [ ] Write a book
+- [ ] See a sitting or former US President in person
+- [ ] Memorize the upper room discourse
+- [ ] Recieve BTC for something
+- [X] Brew a beer at a production brewery
+- [X] Own land
+- [ ] Sell something I made
+- [ ] Invent a board game
+- [ ] Learn a 5 trick sequence of magic
+- [ ] Go bike camping
+- [ ] Publish a podcast
+- [ ] Make a short film
+- [X] Eat at a Michelin starred restaurant
