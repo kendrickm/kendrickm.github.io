@@ -45,5 +45,5 @@ permalink: /bucketlist/
 - [ ] Learn a 5 trick sequence of magic
 - [ ] Go bike camping
 - [ ] Publish a podcast
-- [ ] Make a short film
+- [X] Make a short film
 - [X] Eat at a Michelin starred restaurant
