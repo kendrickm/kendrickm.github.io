@@ -9,7 +9,7 @@ Last year I set myself the goal of baking a different pie every month. I have do
 Using the hashtag [#piesofoverlook](https://www.instagram.com/explore/tags/piesofoverlook/) I made 12 pies
 
 * Vegetarian Shepards Pie
-* Grasshopper Ice Ceam pie
+* Grasshopper Ice Cream pie
 * Key Lime Pie
 * Boston Cream Pie
 * Coconut Cream Pie
