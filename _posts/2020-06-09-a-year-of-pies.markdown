@@ -28,4 +28,4 @@ It was a great combination of elements for a goal. Not overly ambitious(one pie 
 - Perfecting a crust is crucial. Once you have a crust recipe you like, keep that on repeat.
 - Custards 👎
 - Get a crust guard or foil to prevent burning from happening on pies with a wet filling
-- For multi-pie gatherings(Thanksgiving etc) make sure to have several types of pies. Mix fruit pies with cream pies or sweet potatoe pies adds a little variety to the pie loving
+- For multi-pie gatherings(Thanksgiving etc) make sure to have several types of pies. Mix fruit pies with cream pies or sweet potato pies adds a little variety to the pie loving
