@@ -20,4 +20,4 @@ One of the biggest ways I spend my free time is cooking either for myself or oth
 I'm a big fan of film and theatre, especially local productions. I'm fortunate to live in a city that honors it's local arthouse theaters. I follow the [Slashfilmcast](https://www.slashfilm.com/category/features/slashfilmcast/) crew and community for most of my film news and discussions.
 
 ### Christ
-I'm involved with Door Of Hope's [NE Church plant.](https://www.doorofhopene.org/) I went with a TEAM group to France to commune with several churches and 
+I'm involved with Door Of Hope's [NE Church plant](https://www.doorofhopene.org/) and community in Portland. I went with a TEAM group to France to commune with several churches and missonaries. I utilize the [Bible Project](https://bibleproject.com/) resources of videos and podcasts for discussions and building communities around biblical discussions. 
