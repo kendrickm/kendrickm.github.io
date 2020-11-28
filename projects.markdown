@@ -12,4 +12,8 @@ permalink: /projects/
 
 
 ## Cooking
-- [Year of Pies](/projects/cooking)
+- [Year of Pies](/projects/cooking/pies)
+
+
+## Games
+- [Kendies!](/projects/gaming/kendies)

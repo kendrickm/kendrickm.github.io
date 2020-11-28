@@ -44,6 +44,7 @@ permalink: /bucketlist/
 - [ ] Invent a board game
 - [ ] Learn a 5 trick sequence of magic
 - [ ] Go bike camping
-- [ ] Publish a podcast
+- [X] Publish a podcast
 - [X] Make a short film
 - [X] Eat at a Michelin starred restaurant
+- [ ] Backpack the John Muir Trail 
