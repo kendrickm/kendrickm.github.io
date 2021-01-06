@@ -11,4 +11,4 @@ I can help design, build, and expand your software projects. I'm always looking 
 
 **CURRENT HAPPENINGS**
  - [WILLIS WAY](/projects/movies/williswaypod) A podcast following the works of Bruce Willis
- - [Kendies](/projects/movies/kendies) A video-review series on indie games
+ - [Kendies](/projects/gaming/kendies) A video-review series on indie games
