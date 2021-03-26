@@ -1,3 +1,8 @@
+---
+layout: page
+title: Year of Pies
+permalink: /projects/cooking/pies
+---
 Using the hashtag [#piesofoverlook](https://www.instagram.com/explore/tags/piesofoverlook/) I made 12 pies
 
 * Vegetarian Shepards Pie

@@ -1,3 +1,8 @@
+---
+layout: page
+title: Kendies
+permalink: /projects/gaming/kendies
+---
 ## KENDIES
 
 __Kendrick Plays the Indies__
@@ -20,4 +25,4 @@ have never been installed! We're going to
 
 [![Inside](https://upload.wikimedia.org/wikipedia/en/5/50/INSIDE_Xbox_One_cover_art.png)](https://www.youtube.com/watch?v=xTA6SgFG_4Q)
 
-[![Scanner Sombre](https://en.wikipedia.org/wiki/Scanner_Sombre#/media/File:Scanner_Sombre_logo.png)](https://www.youtube.com/watch?v=451ZJVoG-TQ)
+[![Scanner Sombre](https://upload.wikimedia.org/wikipedia/en/1/10/Scanner_Sombre_logo.png)](https://www.youtube.com/watch?v=451ZJVoG-TQ)

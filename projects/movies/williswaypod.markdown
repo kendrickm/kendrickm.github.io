@@ -1,3 +1,8 @@
+---
+layout: page
+title: Where Theres a Willis Theres A Way
+permalink: /projects/movies/williswaypod
+---
 Have you wondered what the career of a man like Bruce Willis looks like well you're in
 the right place! Starting in 2021 myself, and [Josh Carter](https://twitter.com/JoshingCarter)
 will releasing our new podcast *WHERE THERE'S A WILLIS THERE'S A WAY* where we discuss all the works of
