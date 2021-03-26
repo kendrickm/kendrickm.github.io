@@ -2,7 +2,6 @@
 layout: post
 title: "Where There's A Willis There's A Way to a Podcast"
 tags: podcast movies
- -
 ---
 An idea I've been ruminating on for some time with my friend [Josh Carter](https://twitter.com/JoshingCarter) is
 what a great pun 'Where Theres's A Willis There's A Way' is. And also we both love movies! We started going through the

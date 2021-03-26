@@ -2,7 +2,6 @@
 layout: post
 title: "The Kendies"
 tags: projects games video
- -
 ---
 In the 17 years I've had a steam account, I've accumlated a _lot_ of games. Many of these were small sub-$5 games
 that saw, picked up on sale and never played again. Cut to today where I'm wanting to A) Improve my video capture and production skills B) Be a better reviewer & C) Find a project to do during COVID where I didn't have to leave my house

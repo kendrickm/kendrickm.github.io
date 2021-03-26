@@ -2,7 +2,6 @@
 layout: post
 title: "A year of pies"
 tags: cooking
- -
 ---
 Last year I set myself the goal of baking a different pie every month. I have done a fair amount of baking in my life, and pie is probably one of my favorites. I hadn't done a lot of different kinds of pie in my life however, so this would be a good chance to stretch my muscles.
 
