@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Last of the Action Heroes Podcast Network"
-tags: podcast movies willis
+tags:
+ - podcast
+ - movies
+ - willis
 ---
 We're about 13 episodes in to our [podcast!](/projects/movies/williswaypod) and
 we're super stoked to announce our joining forces with a whole bunch of similar
