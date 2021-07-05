@@ -1,3 +1,9 @@
+---
+layout: page
+title: How to be Anti-Racist Discussion Questions
+permalink: /projects/antiracist/howtobeantiracist
+---
+
 __Chapters 1 through 3__
 * Race as an inherently racist construct - why is this, and how can better understanding it lead to difficult conversations with those who disagree with movements like blm
 

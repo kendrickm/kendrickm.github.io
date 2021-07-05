@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "antiracist-bookclub"
+title: Anti-Racism Bookclub
 tags:
  - books
  - antiracist
@@ -12,4 +12,4 @@ what we're doing nationwide, locally, and personally to continue dismantling whi
 to hold us accountable in keeping this in the conversation, and encourage continued learinng and not let ourselves become complacent. We take turns writing down discussion questions based on our reading. Some times
 we're able to find some resources online that we can use, other times we can't find much of anything on line. I wanted to post our resources here in case there are other people searching for help on their own anti-racist journey.
 
-[ReadingList](/projects/antiracist/readinglist)
+[Reading List, Purchase Links, and Discussion Questions](/projects/antiracist/readinglist)
