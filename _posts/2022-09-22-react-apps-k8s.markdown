@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "react-apps-k8s"
+title: "Hosting a React app  on Kubernetes"
 tags:
  - work
  - kubernetes
