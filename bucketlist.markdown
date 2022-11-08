@@ -25,7 +25,7 @@ permalink: /bucketlist/
 - [ ] Visit Patagonia
 - [ ] See soccer game in Europe
 - [ ] Attend ~~NBA~~, ~~MLB~~, ~~NFL~~, and NHL games
-- [ ] Eat pizza in Detroit
+- [X] Eat pizza in Detroit
 - [ ] Visit Prince Edward Island
 - [X] See aurora borelias
 - [ ] Found a non-profit
@@ -47,4 +47,4 @@ permalink: /bucketlist/
 - [X] Publish a podcast
 - [X] Make a short film
 - [X] Eat at a Michelin starred restaurant
-- [ ] Backpack the John Muir Trail 
+- [ ] Backpack the John Muir Trail

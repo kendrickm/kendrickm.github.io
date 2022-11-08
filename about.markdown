@@ -17,7 +17,7 @@ Living in Portland, Oregon I cycle almost everywhere - rain or shine. I dream of
 One of the biggest ways I spend my free time is cooking either for myself or other people. Last year I set a goal to make a [new pie every month.](https://www.instagram.com/explore/tags/piesofoverlook/) This year I'm focusing more on bread baking, though not posting as much to Instagram.
 
 ### Movies
-I'm a big fan of film and theatre, especially local productions. I'm fortunate to live in a city that honors it's local arthouse theaters. I follow the [Slashfilmcast](https://www.slashfilm.com/category/features/slashfilmcast/) crew and community for most of my film news and discussions.
+I'm a big fan of film and theatre, especially local productions. I'm fortunate to live in a city that honors it's local arthouse theaters. I follow the [The Filmcast](https://audioboom.com/channels/4997224) crew and community for most of my film news and discussions.
 
 ### Christ
 I'm involved in the Imageo Dei church and community in Portland. I went with a TEAM group to France to commune with several churches and missonaries. I utilize the [Bible Project](https://bibleproject.com/) resources of videos and podcasts for discussions and building communities around biblical discussions.
