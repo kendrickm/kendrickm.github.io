@@ -6,6 +6,7 @@ layout: home
 ---
 ![profile](/images/profile2.jpg)
 
+<a rel="me" href="https://hachyderm.io/@kmartinix"></a>
 
 I can help design, build, and expand your software projects. I'm always looking for a new project to work on.
 
