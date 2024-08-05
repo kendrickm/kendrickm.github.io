@@ -1,6 +1,6 @@
 ---
 layout: page
-title: America for Americans: A History of Xenophobia in the United States
+title: "America for Americans: A History of Xenophobia in the United States"
 permalink: /projects/antiracist/americanforamericans
 ---
 __Chapters 1 & 2__
