@@ -1,0 +1,19 @@
+---
+layout: post
+title: "All Hands Dev Diary Part 1: Intro, routines, and channels"
+tags:
+ - dev-diary
+ - gamedev
+ - allhands
+---
+I've been slowly working my way through Jack Mott's Games with Go Youtube series on game design using Golang. I had a passing knowledge of Golang, and a growing interest in game design. It's not the ideal long term solution, because using an existing engine would be much easier and solve a lot of problems. BUT I also feel like building from the ground up will teach me some lower level concepts. Things like designing gameplay loops, memory management mechanics, and graphic control are going to be burned in if I have to design them from scratch. 
+
+Currently, my plan is to create a full concept, albiet small, using just Golang and SDL. I'm hoping to find decent free art, but might have to switch to creating my own art as bad as that sounds. My game, which I'm calling *All Hands* will basically be a top-down spaceship engineering room simulator. I've been toying with ideas for over a year, but I'm not implementing them into somewhat of a reality. My code can be found on Github
+
+Intially my setup will be copy the basics from the RPG that we made in the YouTube class, but with minor modifications. Mostly the UI elements really. The UI is managed by 1 GoRoutine and the Game loop is managed on a separate GoRoutine. I broke the game into structs for various parts of the ship itself, terminals for interaction, stations that effect the ship and so forth.  One of my first big struggles was properly communicating between the two routines I had running. Typically the Game UI is drawing a ship room that the player can move around in. When the player reaches a terminal screen and wants to interact, I needed the UI to know this and draw a terminal screen. The UI also manages Input (from both Keyboard and Mouse) and for sending this back to the Game I was using a channel. Because I knew exactly what comprised sending that(just Input objects) that felt like a straight forward solution, but I hesitated in using channels for return communcation. I initially tried storing a pointer to a pointer to an active Terminal struct. Each loop I would try to check if player was attempting to access a terminal, and if that was true try and load a struct from my double pointer. However this never seemed to work. Everything I tried had it always ending up as a nil pointer even when I could verify on the Game side the pointer value was the same.
+
+So after all that I decided to return to channels. I created a channel for managing GameState transitions. I figure there might be multiple states the game needs to tell the UI happened(ship events, incoming dialog etc) so I hope this solution works. So far it seems to have solved my current problem.
+
+My next challenge is level design. I'm using a text file to store the level design, using characters as a map for in-game objects and tiles, and then a separate section to build out other game data such as what interations do etc. I think I plan on scoping this prototype to be a smaller version of my big vision, so essentially a single scenario with some straight forward tasks to complete. Theres still logic to create with how parts fit together and connect it all. I'm also fast approaching needing to switch out the art for something that better fits this project.
+
+First, however, I am finishing up a design doc that outlines what the goal, scope, and steps are for this basic prototype. I haven't looked at other design docs, but after getting my initial thoughts down and prototypes made I might look for guidence here. 
