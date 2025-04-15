@@ -1,0 +1,19 @@
+---
+layout: post
+title: "All Hands Dev Diary Part 2: Timers, ticks and trendlines"
+tags:
+ - dev-diary
+ - gamedev
+ - allhands
+---
+
+Been a little bit since I've done an update on this game, but I'm trying to slowly make some progress here. I finished the Golang class from Mott on YouTube and am considering what class to do next. I want to wrap this particular iteration of my game concept, before diving into a different language or engine etc. Last time I talked about the basis for splitting up the ui and gameplay into two different threads. I've now got it to a place where the game is a single station with a button, and that button enables the power core. I wanted, however, to have there be a spin up factor to the power core before it gets to 100%. I felt like the best way to move to this was...a STATE MACHINE
+
+So I had to refactor several things in order to get to a place for a working state machine. Creating flow of interfaces, and implementing them was straightforward, but ironically it showed me a lot of places interfaces would be a better choice then what I have currently so that was fun. I made notes of what made sense to convert, and moved on with my states. The main reason for having a state management was I wanted a way to update things on a regular candence so we could stage moving from 0 to 100. Once I got an update loop cleaned up, it was time to move on to setting up a TICKER
+
+In Go a [ticker is a feature](https://gobyexample.com/tickers) that allows you to do something on a regular intervel. Compared with timers which more more appropriate for doing something once at a set point. I wanted there to be a period of time that the power core would take to go from 0 to 100, and I didn't want this to be dependent on computer speed. So I created a tick that runs every 16 milliseconds, and use that to run my update loop. Every loop I track a counter and update it at a set rate, and then I can control how fast I go from 0 to 100. And I can change this per usage without having to change how often the ticker gets called. So now I have a power core that grows at a rate of 5/second until it hits 100 I just need a way to display this.
+
+This part of the process is still in progress, but the goal is to draw a line updating as the rate grows. I haven't decided if it should always be calculating the line so when you look at it you see a looping line that gets updated as the rate grows OR start drawing a line when you look at it from wherever the previous rate was located. Either way, I'll probably need a separate ticker since the UI is updated in a different thread then the game engine is, and I don't want to try and change frame rate by effecting the loop it runs. That will be the next step I embark on. 
+
+After that I'm reaching the end of what I'm wanting from this prototype game. I think some info text, maybe a game completion stage. One big thing I'm wanting to try and nail down is a different art style. I'm reusing a tile set from OpenGameArt that is more classic-fantasy themed, and since this is a space game...it doesn't really look right. I might end up changing perspective when I end up using new art but I'll have to see what I can find. I don't want to start trying to make custom art yet so in keeping with the prototype nature.
+

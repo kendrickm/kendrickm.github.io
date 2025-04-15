@@ -19,7 +19,6 @@ permalink: /bucketlist/
 - [ ] Learn enough second language to converse with restaurant staff
 - [ ] Finish playing RPG campaign
 - [ ] Make good homade ramen broth
-- [ ] See Hamilton on stage
 - [ ] See Improv show in Chicago
 - [ ] Eat sushi in Japan
 - [ ] Visit Patagonia
@@ -28,12 +27,12 @@ permalink: /bucketlist/
 - [X] Eat pizza in Detroit
 - [ ] Visit Prince Edward Island
 - [X] See aurora borelias
-- [ ] Found a non-profit
+- [ ] Found a non-profit or serve on a board
 - [ ] Live abroad
 - [ ] Read book about every president
 - [ ] Read 100 biographies
 - [ ] Learn an instrament
-- [ ] Mountain Bike on a trail
+- [X] Mountain Bike on a trail
 - [ ] Write a book
 - [ ] See a sitting or former US President in person
 - [ ] Memorize the upper room discourse
@@ -48,3 +47,7 @@ permalink: /bucketlist/
 - [X] Make a short film
 - [X] Eat at a Michelin starred restaurant
 - [ ] Backpack the John Muir Trail
+- [ ] Publish a book
+- [ ] Have a film play at a film festival 
+- [ ] Pubish a song on Bandcamp
+- [ ] See the ~Mississippi,~ the Amazon, the Nile, the Yangtze, the Murray, and the Volga Rivers
