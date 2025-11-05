@@ -11,5 +11,5 @@ layout: home
 I can help design, build, and expand your software projects. I'm always looking for a new project to work on.
 
 **CURRENT HAPPENINGS**
+ - [Kmartinix Makes](/projects/making/kmartinixmakes) My new youtube channel dedicated to following me on my making journey
  - [WILLIS WAY](/projects/movies/williswaypod) A podcast following the works of Bruce Willis
- - [Kendies](/projects/gaming/kendies) A video-review series on indie games
